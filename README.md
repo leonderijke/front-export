@@ -1,6 +1,11 @@
 # Front export
 
-Little export script for exporting all conversations in a Front inbox, using the Front API.
+**:hand: Heads up! This code uses the Front API V1, which is deprecated. @niklasravnsborg took this project further and created a Front API V2 compatible version: https://github.com/niklasravnsborg/front-export :tada:**
+
+**This repository is no longer maintained.**
+
+
+Little export script for exporting all conversations in a Front inbox, using the Front API V1.
 
 When using the awesome [Front App](https://frontapp.com/), you want to export all conversations in an inbox. For example, for backup purposes.
 
